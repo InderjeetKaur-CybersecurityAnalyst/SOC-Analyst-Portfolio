@@ -1,4 +1,4 @@
-# Inderjeet Kaur – SOC Analyst Portfolio
+# Inderjeet Kaur – SOC Analyst Portfolio | Microsoft Defender XDR | Threat Hunting | Incident Response | Active Directory | Entra ID
 
 ## About Me
 
