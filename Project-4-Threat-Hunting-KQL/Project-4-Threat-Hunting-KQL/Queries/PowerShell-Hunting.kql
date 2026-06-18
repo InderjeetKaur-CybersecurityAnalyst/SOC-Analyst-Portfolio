@@ -1,0 +1,4 @@
+DeviceProcessEvents
+| where FileName =~ "powershell.exe"
+| project Timestamp, DeviceName, AccountName, ProcessCommandLine
+| order by Timestamp desc
