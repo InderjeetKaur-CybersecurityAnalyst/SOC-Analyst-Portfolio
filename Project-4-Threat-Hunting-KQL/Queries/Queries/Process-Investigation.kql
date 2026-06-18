@@ -1,0 +1,7 @@
+DeviceProcessEvents
+| project Timestamp,
+          DeviceName,
+          FileName,
+          InitiatingProcessFileName,
+          ProcessCommandLine
+| order by Timestamp desc
