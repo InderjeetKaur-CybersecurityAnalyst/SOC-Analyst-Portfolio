@@ -1,0 +1,4 @@
+DeviceLogonEvents
+| where ActionType == "LogonFailed"
+| summarize FailedAttempts=count() by AccountName, DeviceName
+| order by FailedAttempts desc
